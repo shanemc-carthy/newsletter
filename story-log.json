@@ -1,0 +1,71 @@
+{
+  "weeks": [
+    {
+      "week": "2026-W14",
+      "date_range": "2026-03-30 to 2026-04-03",
+      "stories": [
+        {
+          "id": "microsoft-mid-class-model-compute-2026",
+          "headline": "Microsoft Admits It Can't Build at the Largest Scale Yet — So It's Going Mid-Class",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/e511dfce-555d-4bce-90fd-d09db7529d96",
+          "category": "technical",
+          "summary": "Microsoft launched a mid-class speech transcription model; Suleyman admitted compute constraints prevent building at largest scale. Reducing OpenAI dependence.",
+          "shanes_pick": true
+        },
+        {
+          "id": "oracle-30k-layoffs-ai-infrastructure-2026",
+          "headline": "Oracle Cut 30,000 Jobs to Fund AI Data Centres",
+          "source": "CNBC / The Register",
+          "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
+          "category": "business",
+          "summary": "Oracle cut 18% of global workforce (20-30k jobs) via single email to fund Stargate AI data centre buildout after raising $50B in January."
+        },
+        {
+          "id": "kpmg-vibe-coding-tax-professionals-2026",
+          "headline": "KPMG Trains Tax Professionals to 'Vibe Code' — Claims a 10x Consultant Is Coming",
+          "source": "Business Insider",
+          "url": "",
+          "category": "business",
+          "summary": "KPMG US six-week pilot had tax professionals build client tools using AI vibe coding. Framed as path to '10x consultant'. Governance and quality questions unaddressed.",
+          "competitor": true
+        },
+        {
+          "id": "google-gemma4-apache-2026",
+          "headline": "Google Releases Gemma 4 Under Apache 2.0",
+          "source": "The Register",
+          "url": "https://www.theregister.com/2026/04/02/googles_gemma_4_open_weights/",
+          "category": "technical",
+          "summary": "Gemma 4 open-weights family (2B-31B), Apache 2.0 licence, 256K context, multimodal. Positioned as domestic alternative to Chinese open-weights models."
+        },
+        {
+          "id": "anthropic-claude-code-source-leak-2026",
+          "headline": "Anthropic Accidentally Leaked Claude Code's Full Source — 512,000 Lines",
+          "source": "The Neuron",
+          "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-march-31-2026/",
+          "category": "technical",
+          "summary": "Anthropic exposed Claude Code's 512K-line TypeScript source via misconfigured npm sourcemap. 25K GitHub stars within hours. Supply chain security risk highlighted."
+        }
+      ],
+      "held_stories": [
+        {
+          "id": "openai-sora-shutdown-2026",
+          "headline": "OpenAI Shutting Down Sora — App Closes April 26",
+          "source": "TechCrunch / The Decoder",
+          "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+          "category": "business",
+          "summary": "Sora discontinued: peaked at 1M users, fell to 500K, cost $1M/day. Compute reallocated to enterprise/coding. Disney $1B partnership collapsed.",
+          "reason_held": "Displaced by KPMG vibe coding story in final edit — carry to next week if still relevant",
+          "forwarded_date": "2026-04-03"
+        }
+      ],
+      "podcast": {
+        "id": "no-priors-sarah-guo-elad-gil",
+        "title": "No Priors — AI, Technology & Startups",
+        "show": "No Priors",
+        "spotify_url": "https://open.spotify.com/show/0NkCpBCgCYMhUFIgGfCNMM",
+        "published": "2026-04-03"
+      }
+    }
+  ]
+}
